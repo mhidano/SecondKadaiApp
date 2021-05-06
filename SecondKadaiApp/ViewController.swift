@@ -13,7 +13,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         // TextFieldにヒント表示
         InputTextField.placeholder = "山田　太郎"
     }
